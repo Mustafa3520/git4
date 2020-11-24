@@ -5,7 +5,10 @@ public class git4 {
 
     public static void  yenımetod(){
 
-        System.out.println(" yeni metod hazır");
+        System.out.println(" yeni metod hazır mıııı????????????????");
         System.out.println("sepete ekle");
+    }
+    public static void commitPushdegildir(){
+        System.out.println(" tamam mı");
     }
 }
